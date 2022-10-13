@@ -1,0 +1,15 @@
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.csproj.AssemblyReference.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.AssemblyInfoInputs.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.AssemblyInfo.cs
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.csproj.CoreCompileInputs.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\bin\Debug\net6.0\cse-210-jumper.exe
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\bin\Debug\net6.0\cse-210-jumper.deps.json
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\bin\Debug\net6.0\cse-210-jumper.runtimeconfig.json
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\bin\Debug\net6.0\cse-210-jumper.dll
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\bin\Debug\net6.0\cse-210-jumper.pdb
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.dll
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\refint\cse-210-jumper.dll
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.pdb
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\cse-210-jumper.genruntimeconfig.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-jumper\obj\Debug\net6.0\ref\cse-210-jumper.dll
