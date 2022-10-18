@@ -18,9 +18,15 @@ class Display {
     //display the line for the word being guessed
     //display the letters already guessed
     public void DisplayWordLine() {
-        for (int i = 0; i != generator.GetWordCount(); i++) {
-            if (generator.GetWord([i]) == guess.GetGuess([i])) {
-
+        //temp variables
+        string word = generator.GetWord();
+        string input = guess.GetGuess();
+        int wordCount = generator.GetWordCount();
+        
+        //compare user Guess to program Word
+        for (int i = 0; i != wordCount; i++) {
+            if (input[i] == word[i]) {
+                
             }
         }
     }
