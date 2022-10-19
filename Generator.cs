@@ -1,7 +1,8 @@
 //for generating a random word
 class Generator {
     //variables
-    private string word = "";
+    //TODO Set to TOBY for testing purposes. Remove once word generator is implemented
+    private string word = "Toby";
     private int wordCount = 0;
 
     //methods
@@ -12,8 +13,8 @@ class Generator {
         this.word = word ?? "";
     }
 
-    private int CalculateWordCount(string word, int wordCount) {
-        wordCount = word.Count();
+    public int CalculateWordCount() {
+        wordCount = word.Length;
         return wordCount;
     }
     public int GetWordCount() {
