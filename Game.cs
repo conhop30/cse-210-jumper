@@ -7,7 +7,7 @@ class Game {
     Generator generator = new Generator();
 
     //set up game
-    generator.CalculateWordCount();
+    generator.GetWordCount();
     display.DisplayJumper();
     //start playing game
     guess.GetUserGuess();
