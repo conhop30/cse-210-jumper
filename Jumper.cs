@@ -1,9 +1,11 @@
 //for intializing game
 class Jumper {
     static int Main(string[] args) {
-        Display display = new Display();
+        //intialize variables
+        Game game = new Game();
 
-        display.DisplayJumper();
+        //start the game
+        game.PlayGame();
         return 0;
     }
 }
