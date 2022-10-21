@@ -24,7 +24,7 @@ class Display {
         int wordCount = generator.GetWordCount();
         
         //compare user Guess to program Word
-        for (int i = 0; i < wordCount; i++) {
+        for (int i = 0; i <= wordCount; i++) {
 
             //display the correctly guessed letter
             /*TODO This is a very sloppy way to make userGuess a "char", but I

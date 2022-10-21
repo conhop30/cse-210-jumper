@@ -8,7 +8,7 @@ class Generator {
 
     //methods
     public void PullWord() {
-        return dict.chosenWord;
+        //return dict.chosenWord;
     }
     public string GetWord() {
         return word;
