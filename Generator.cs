@@ -4,8 +4,12 @@ class Generator {
     //TODO Set to TOBY for testing purposes. Remove once word generator is implemented
     private string word = "Toby";
     private int wordCount = 0;
+    Dictionary dict = new Dictionary();
 
     //methods
+    public void PullWord() {
+        return dict.chosenWord;
+    }
     public string GetWord() {
         return word;
     }
@@ -13,12 +17,8 @@ class Generator {
         this.word = word ?? "";
     }
 
-    public int CalculateWordCount() {
-        wordCount = word.Length;
-        return wordCount;
-    }
     public int GetWordCount() {
-        return wordCount;
+        return wordCount = word.Length;
     }
     
 }

@@ -8,7 +8,7 @@ class Guess {
         return guess;
     }
     public void SetGuess() {
-        this.guess = guess;
+        this.guess = guess ?? "";
     }
 
     //get the guess from the User
