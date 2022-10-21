@@ -4,12 +4,52 @@ class Display {
     Generator generator = new Generator();
     Guess guess = new Guess();
 
-    public void DisplayJumper() {
+    public void DisplayJumper1() {
         Console.WriteLine(@"  ___");
         Console.WriteLine(@" /___\");
         Console.WriteLine(@" \   /");
         Console.WriteLine(@"  \ /");
         Console.WriteLine(@"   O");
+        Console.WriteLine(@"  /|\");
+        Console.WriteLine(@"  / \");
+        Console.WriteLine(@"     ");
+        Console.WriteLine(@"^^^^^^^");
+    }
+
+    public void DisplayJumper2() {
+        Console.WriteLine(@" /___\");
+        Console.WriteLine(@" \   /");
+        Console.WriteLine(@"  \ /");
+        Console.WriteLine(@"   O");
+        Console.WriteLine(@"  /|\");
+        Console.WriteLine(@"  / \");
+        Console.WriteLine(@"     ");
+        Console.WriteLine(@"^^^^^^^");
+    }
+
+    public void DisplayJumper3() {
+        Console.WriteLine(@" /   \");
+        Console.WriteLine(@" \   /");
+        Console.WriteLine(@"  \ /");
+        Console.WriteLine(@"   O");
+        Console.WriteLine(@"  /|\");
+        Console.WriteLine(@"  / \");
+        Console.WriteLine(@"     ");
+        Console.WriteLine(@"^^^^^^^");
+    }
+
+    public void DisplayJumper4() {
+        Console.WriteLine(@"  \ /");
+        Console.WriteLine(@"   O");
+        Console.WriteLine(@"  /|\");
+        Console.WriteLine(@"  / \");
+        Console.WriteLine(@"     ");
+        Console.WriteLine(@"^^^^^^^");
+    }
+
+    public void DisplayJumper5() {
+        Console.WriteLine(@"  \ /");
+        Console.WriteLine(@"   x");
         Console.WriteLine(@"  /|\");
         Console.WriteLine(@"  / \");
         Console.WriteLine(@"     ");
