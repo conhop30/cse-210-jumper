@@ -4,7 +4,7 @@ class Display {
     Generator generator = new Generator();
     Guess guess = new Guess();
 
-    public void DisplayJumper() {
+    public void DisplayJumper1() {
         Console.WriteLine(@"  ___");
         Console.WriteLine(@" /___\");
         Console.WriteLine(@" \   /");
@@ -16,7 +16,8 @@ class Display {
         Console.WriteLine(@"^^^^^^^");
     }
 
-    //display the line and letters for the word being guessed
+    //display the line for the word being guessed
+    //display the letters already guessed
     public void DisplayWordLine() {
         //temp variables
         string word = generator.GetWord();
