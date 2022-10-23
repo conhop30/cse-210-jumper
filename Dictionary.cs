@@ -9,10 +9,6 @@ namespace jumper
         List<char> answer = new List<char>();
         public List<char> guess = new List<char>();
 
-        public HiddenWord(){
-            
-        }
-
         public string pullWord(){
             List<string> lines = new List<string>(File.ReadLines("dictionary.txt"));
             Random rand = new Random();
