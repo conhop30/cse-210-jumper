@@ -18,7 +18,7 @@ class Display {
 
     //display the line for the word being guessed
     //display the letters already guessed
-    public void DisplayWordLine() {
+    private void DisplayWordLine() {
         //temp variables
         string word = generator.GetWord();
         string userGuess = guess.GetGuess();
@@ -41,3 +41,4 @@ class Display {
         }
     }
 }
+
